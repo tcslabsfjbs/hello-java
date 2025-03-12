@@ -1,5 +1,7 @@
 name: Build and Deploy java 
-
+permissions:
+      id-token: write   
+      contents: read    
 on: 
   workflow_dispatch:
 jobs:
