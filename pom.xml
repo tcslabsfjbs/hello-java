@@ -84,7 +84,7 @@
     <repositories>
         <repository>
             <id>nexus</id>
-            <url>http://192.168.1.15:8081/nexus/content/repositories/releases/</url>
+            <url>https://192.168.1.15:8081/nexus/content/repositories/releases/</url>
         </repository>
     </repositories>
     <distributionManagement>
